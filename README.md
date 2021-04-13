@@ -9,10 +9,10 @@
 > sudo apt-get install python3.6-tk
 
 - For installing pyaudio
-> sudo apt-get install libasound-dev
-> [Download pyaudio](http://files.portaudio.com/download.html)
-> tar -zxvf "downloaded file name"
-> ./configure && make
-> sudo make install
-> sudo pip install pyaudio
+1. sudo apt-get install libasound-dev
+2. [Download pyaudio](http://files.portaudio.com/download.html)
+3. tar -zxvf "downloaded file name"
+4. ./configure && make
+5. sudo make install
+6. sudo pip install pyaudio
 
